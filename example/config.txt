@@ -1,0 +1,2 @@
+Prefix plugins/GeneList/example/
+Plugin GeneList inputfile parameters.viz.txt outputfile genelist.csv
